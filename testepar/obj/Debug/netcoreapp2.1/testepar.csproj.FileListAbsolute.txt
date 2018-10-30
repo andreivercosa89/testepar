@@ -1,0 +1,11 @@
+/Users/aluno/Projects/testepar/testepar/bin/Debug/netcoreapp2.1/testepar.deps.json
+/Users/aluno/Projects/testepar/testepar/bin/Debug/netcoreapp2.1/testepar.runtimeconfig.json
+/Users/aluno/Projects/testepar/testepar/bin/Debug/netcoreapp2.1/testepar.runtimeconfig.dev.json
+/Users/aluno/Projects/testepar/testepar/bin/Debug/netcoreapp2.1/testepar.dll
+/Users/aluno/Projects/testepar/testepar/bin/Debug/netcoreapp2.1/testepar.pdb
+/Users/aluno/Projects/testepar/testepar/obj/Debug/netcoreapp2.1/testepar.csprojAssemblyReference.cache
+/Users/aluno/Projects/testepar/testepar/obj/Debug/netcoreapp2.1/testepar.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/testepar/testepar/obj/Debug/netcoreapp2.1/testepar.AssemblyInfoInputs.cache
+/Users/aluno/Projects/testepar/testepar/obj/Debug/netcoreapp2.1/testepar.AssemblyInfo.cs
+/Users/aluno/Projects/testepar/testepar/obj/Debug/netcoreapp2.1/testepar.dll
+/Users/aluno/Projects/testepar/testepar/obj/Debug/netcoreapp2.1/testepar.pdb
